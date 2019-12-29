@@ -1,0 +1,17 @@
+What is in this folder:
+	README-TODO: This file
+	data.itxt: SSH log file <Git Ignore>
+	log_scraper.py: Script for parsing out ssh log statistics
+	common_ip.itxt: List of IP origin of most common login attempts <Git Ignore>
+	common_user.itxt: List of most common usernames attempted <Git Ignore>
+
+
+TODO:
+	log_scraper:
+	- Regular Expression to parse each line
+	- Take Results of regular expression and output to relevant files
+	- ???
+	- Profit
+
+
+
